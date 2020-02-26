@@ -1,0 +1,1 @@
+export const Root_Url:string="http://localhost:42333/api/";  
